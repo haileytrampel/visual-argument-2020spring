@@ -37,3 +37,11 @@ Title: family
 	Source: "Family" - https://thenounproject.com/search/?q=family&i=1263313
 	License: CC BY
 
+Title: Grow
+	Source: Canva
+
+
+Title: Angel
+	Author: 
+	Source: "piktogram" - https://svgsilh.com/ms/ffffff/image/1917998.html
+	License: CC0 1.0
